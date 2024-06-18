@@ -27,9 +27,6 @@
 &emsp;
 
 -------------------
-
-&emsp;
-
 ## 🛠️ My Skills
 -------------------
 ### Programming languages:
