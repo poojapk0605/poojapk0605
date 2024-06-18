@@ -33,7 +33,6 @@
 ## 🛠️ My Skills
 -------------------
 ### Programming languages:
-&emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
 ![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
@@ -46,12 +45,10 @@
 ![Groovy Script](https://img.shields.io/badge/-Groovy%20Script-000?logo=apache-groovy&logoColor=white)
 
 ### Frontend development:
-&emsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 
 ### Misc tools:
-&emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
@@ -61,17 +58,14 @@
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 ### Services & Frameworks: 
-&emsp;
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
 
 
 ### Databases:
-&emsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
 ### SRE & DevOps:
-&emsp;
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
@@ -81,15 +75,12 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Flyway](https://img.shields.io/badge/-Flyway-0769AD?logo=flyway&logoColor=white)
 
-
 ### Hardware Skills
-&emsp;
 ![IIOT Sensors](https://img.shields.io/badge/-IIOT%20Sensors-00CED1?logo=internet-of-things&logoColor=white)
 ![Raspberry Pi 5](https://img.shields.io/badge/-Raspberry%20Pi%205-A22846?logo=raspberry-pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 
 ### Netowrking Skills
-&emsp;
 ![IoT Protocols](https://img.shields.io/badge/-IoT%20Protocols-00CED1?logo=internet-of-things&logoColor=white)
 ![Network Protocols](https://img.shields.io/badge/-Network%20Protocols-4682B4?logo=network-protocols&logoColor=white)
 ![OSI Model](https://img.shields.io/badge/-OSI%20Model-4682B4?logo=protocols&logoColor=white)
@@ -97,19 +88,16 @@
 ![Network Security](https://img.shields.io/badge/-Network%20Security-FF4500?logo=security&logoColor=white)
 ![Network Administration](https://img.shields.io/badge/-Network%20Administration-32CD32?logo=administration&logoColor=white)
 ![Wireless Networking](https://img.shields.io/badge/-Wireless%20Networking-FFD700?logo=wireless&logoColor=white)
-&emsp;
 
 ### Machine Learning & IoT
+
 ![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-Machine%20Learning-blue)
 ![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-Time%20Series-yellow)
 ![Python Libraries](https://img.shields.io/badge/Python%20Libraries-Pandas%2C%20NumPy%2C%20Scikit--Learn%2C%20Statsmodels-green)
 ![Coursework](https://img.shields.io/badge/Coursework-Machine%20Learning%20%28Time%20Series%29-orange)
-
-  &emsp;
+  
 -------------------  
 ## Find Me Around the Web:
-
--------------------
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojakannanpk/)
 [![Email me](https://img.shields.io/badge/Email-ff9800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojahusky@gmail.com)
 
