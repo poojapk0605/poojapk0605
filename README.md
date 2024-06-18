@@ -99,7 +99,16 @@
 ![Wireless Networking](https://img.shields.io/badge/-Wireless%20Networking-FFD700?logo=wireless&logoColor=white)
 &emsp;
 
+### Machine Learning & IoT
+![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-Machine%20Learning-blue)
+![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-Time%20Series-yellow)
+![Python Libraries](https://img.shields.io/badge/Python%20Libraries-Pandas%2C%20NumPy%2C%20Scikit--Learn%2C%20Statsmodels-green)
+![Coursework](https://img.shields.io/badge/Coursework-Machine%20Learning%20%28Time%20Series%29-orange)
+
+  &emsp;
+-------------------  
 ## Find Me Around the Web:
+
 -------------------
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojakannanpk/)
 [![Email me](https://img.shields.io/badge/Email-ff9800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojahusky@gmail.com)
