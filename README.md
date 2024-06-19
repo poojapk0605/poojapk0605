@@ -77,7 +77,7 @@
 ![Raspberry Pi 5](https://img.shields.io/badge/-Raspberry%20Pi%205-A22846?logo=raspberry-pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 
-### Netowrking Skills
+### Networking Skills
 ![IoT Protocols](https://img.shields.io/badge/-IoT%20Protocols-00CED1?logo=internet-of-things&logoColor=white)
 ![Network Protocols](https://img.shields.io/badge/-Network%20Protocols-4682B4?logo=network-protocols&logoColor=white)
 ![OSI Model](https://img.shields.io/badge/-OSI%20Model-4682B4?logo=protocols&logoColor=white)
