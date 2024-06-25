@@ -71,6 +71,7 @@
 ![HELM](https://img.shields.io/badge/-HELM-277A9F?logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Flyway](https://img.shields.io/badge/-Flyway-0769AD?logo=flyway&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
 
 ### Hardware Skills
 ![IIOT Sensors](https://img.shields.io/badge/-IIOT%20Sensors-00CED1?logo=internet-of-things&logoColor=white)
