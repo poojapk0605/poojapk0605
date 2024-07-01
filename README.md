@@ -18,12 +18,17 @@
 -------------------
 &emsp;
 - 🛠️ Currently Working On:
-  - Setting up Jenkins with Terraform and AWS for automated CI/CD pipelines.
-  - Developing a backend web application in Go Lang to manage CVE data in PostgreSQL.
-  - Implementing Flyway for database migration and version control.
-  - Writing Jenkins pipelines with Groovy scripts for Continuous Integration on GitHub.
-  - Deploying applications to Kubernetes clusters using Helm charts.
-  - Building and managing AWS infrastructure to support Kubernetes workloads.
+  - Configured Jenkins using Terraform for seamless deployment on AWS infrastructure.
+  - Deployed and managed Amazon EKS (Elastic Kubernetes Service) clusters using Terraform.
+  - Developed a web application in Go, functioning as both producer and consumer services.
+  - Created Kafka topics and published CVE (Common Vulnerabilities and Exposures) data.
+  - Set up and configured Kafka and PostgreSQL using Bitnami Helm charts.
+  - Built Docker images for the producer and consumer web applications.
+  - Performed database migration using Flyway to create tables on the PostgreSQL server, with migration images stored in Docker.
+  - Deployed the web application in Kubernetes pods, ensuring data insertion into the PostgreSQL database via Helm charts.
+  - Implemented a Jenkins pipeline with a Groovy script for Continuous Integration (CI), integrated with GitHub for streamlined operations, and created a semantic release for Helm charts to manage 
+    versioning and automated releases.
+
 &emsp;
 
 -------------------
