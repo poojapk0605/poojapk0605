@@ -18,16 +18,14 @@
 -------------------
 &emsp;
 - 🛠️ Currently Working On:
-  - Configured Jenkins using Terraform for seamless deployment on AWS infrastructure.
-  - Deployed and managed Amazon EKS (Elastic Kubernetes Service) clusters using Terraform.
-  - Developed a web application in Go, functioning as both producer and consumer services.
-  - Created Kafka topics and published CVE (Common Vulnerabilities and Exposures) data.
-  - Set up and configured Kafka and PostgreSQL using Bitnami Helm charts.
-  - Built Docker images for the producer and consumer web applications.
-  - Performed database migration using Flyway to create tables on the PostgreSQL server, with migration images stored in Docker.
-  - Deployed the web application in Kubernetes pods, ensuring data insertion into the PostgreSQL database via Helm charts.
-  - Implemented a Jenkins pipeline with a Groovy script for Continuous Integration (CI), integrated with GitHub for streamlined operations, and created a semantic release for Helm charts to manage 
-    versioning and automated releases.
+  ## Embedded Devices:
+    - Exploring ESP32 and BMP280 sensors
+    - Experimenting with the Matter protocol and Thread Networking on Nano Andrudio as part of the Silab Challenge
+  ## Connected Devices
+    - Exploring connected devices and IoT protocols
+    - Configuring, simulating, and emulating data from constrained device applications using Python
+    - Communicating through IoT protocols such as MQTT and CoAP
+    - Transmitting data through an IoT protocol and utilizing a gateway device application built with Java to push data to the cloud
 
 &emsp;
 
@@ -108,6 +106,8 @@
 ## Find Me Around the Web:
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojakannanpk/)
 [![Email me](https://img.shields.io/badge/Email-ff9800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojahusky@gmail.com)
+[![Navigate My Achievements](https://img.shields.io/badge/Navigate%20My%20Achievements-0082FA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://poojapk0605.github.io/)
+
 
 
 
