@@ -99,7 +99,12 @@
 ![Python Libraries](https://img.shields.io/badge/Python%20Libraries-Pandas%2C%20NumPy%2C%20Scikit--Learn%2C%20Statsmodels-green)
 ![Coursework](https://img.shields.io/badge/Coursework-Machine%20Learning%20%28Time%20Series%29-orange)
   
--------------------  
+### Open Sources 
+![Bitnami](https://img.shields.io/badge/-Bitnami-003366?logo=bitnami&logoColor=white)
+![Flyway](https://img.shields.io/badge/-Flyway-CC0200?logo=flyway&logoColor=white)
+
+--------------------
+
 ## Find Me Around the Web:
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojakannanpk/)
 [![Email me](https://img.shields.io/badge/Email-ff9800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojahusky@gmail.com)
