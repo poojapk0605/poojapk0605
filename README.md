@@ -18,14 +18,12 @@
 -------------------
 &emsp;
 - 🛠️ Currently Working On:
-  ## Embedded Devices:
-    - Exploring ESP32 and BMP280 sensors
-    - Experimenting with the Matter protocol and Thread Networking on Nano Andrudio as part of the Silab Challenge
-  ## Connected Devices
-    - Exploring connected devices and IoT protocols
-    - Configuring, simulating, and emulating data from constrained device applications using Python
-    - Communicating through IoT protocols such as MQTT and CoAP
-    - Transmitting data through an IoT protocol and utilizing a gateway device application built with Java to push data to the cloud
+  ## Machine Learning and Operation:
+    - Developing and deploying machine learning models with a focus on scalability and reliability.
+    - Exploring MLOps workflows, including model training, versioning, deployment, and monitoring.
+    - Utilizing cloud platforms such as AWS and GCP for scalable machine learning pipelines.
+    - Experimenting with tools and frameworks like TensorFlow.
+    - Streamlining model lifecycle management using CI/CD pipelines and containerization with Docker and Kubernetes. 
 
 &emsp;
 
