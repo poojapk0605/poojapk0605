@@ -14,13 +14,13 @@ Terraform · Kubernetes · Docker · GitHub Actions · Jenkins · GCP · AWS · 
 
 ## 📌 Featured Projects
 
-### 🔹 [CloudForge](https://github.com/poojapk0605/cloudforge)
+### 🔹 [CloudForge](https://github.com/orgs/cloud-forge-advance-cloud/repositories)
 A full-stack DevOps pipeline built on AWS with Go, Jenkins, Kafka, and Terraform.
 - CI/CD pipeline using Jenkins and Groovy scripts
 - EKS deployment with monitoring via Grafana & Prometheus
 - Integrated RAG-based LLM chatbot for CVE search
 
-### 🔹 [AskNeu](https://github.com/poojapk0605/AskNeu) (In progress)
+### 🔹 [AskNeu] (In progress)
 End-to-end MLOps pipeline deployed on GCP for university chatbot automation.
 - Airflow ETL pipeline + Vertex AI model
 - GKE deployment with centralized logging
