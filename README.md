@@ -20,7 +20,7 @@ A full-stack DevOps pipeline built on AWS with Go, Jenkins, Kafka, and Terraform
 - EKS deployment with monitoring via Grafana & Prometheus
 - Integrated RAG-based LLM chatbot for CVE search
 
-### 🔹 [AskNeu](https://github.com/poojapk0605/AskNeu)
+### 🔹 [AskNeu](https://github.com/poojapk0605/AskNeu- In progress)
 End-to-end MLOps pipeline deployed on GCP for university chatbot automation.
 - Airflow ETL pipeline + Vertex AI model
 - GKE deployment with centralized logging
