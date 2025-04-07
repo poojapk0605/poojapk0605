@@ -2,7 +2,14 @@
 
 🎓 Master’s student in Cyber-Physical Systems at Northeastern University (Graduating May 2025)  
 🚀 DevOps | MLOps | Cloud Engineer in Progress  
-💻 Passionate about automating infrastructure, building scalable cloud-native systems, and simplifying ML workflows using modern DevOps and MLOps tools.
+
+![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform)
+![GCP](https://img.shields.io/badge/Cloud-GCP-orange?logo=googlecloud)
+![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?logo=amazonaws)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-green?logo=githubactions)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue?logo=kubernetes)
+![Linux](https://img.shields.io/badge/System-Linux-black?logo=linux)
+![Python](https://img.shields.io/badge/Scripting-Python-yellow?logo=python)
 
 ---
 
@@ -14,21 +21,21 @@ Terraform · Kubernetes · Docker · GitHub Actions · Jenkins · GCP · AWS · 
 
 ## 📌 Featured Projects
 
-### 🔹 [CloudForge](https://github.com/orgs/cloud-forge-advance-cloud/repositories)
+### 🔹 [CloudForge](https://github.com/orgs/cloud-forge-advance-cloud/repositories)  
 A full-stack DevOps pipeline built on AWS with Go, Jenkins, Kafka, and Terraform.
-- CI/CD pipeline using Jenkins and Groovy scripts
-- EKS deployment with monitoring via Grafana & Prometheus
+- CI/CD pipeline using Jenkins and Groovy scripts  
+- EKS deployment with monitoring via Grafana & Prometheus  
 - Integrated RAG-based LLM chatbot for CVE search
 
-### 🔹 [AskNeu] (In progress)
+### 🔹 AskNeu (In progress)  
 End-to-end MLOps pipeline deployed on GCP for university chatbot automation.
-- Airflow ETL pipeline + Vertex AI model
-- GKE deployment with centralized logging
+- Airflow ETL pipeline + Vertex AI model  
+- GKE deployment with centralized logging  
 - Data scraped, chunked, and stored in GCS
 
-### 🔹 [Portfolio Website](https://poojapk0605.github.io/)
+### 🔹 [Portfolio Website](https://poojapk0605.github.io/)  
 A personal site showcasing my projects, skills, and professional background.
-- Built with HTML/CSS and hosted on GitHub Pages
+- Built with HTML/CSS and hosted on GitHub Pages  
 - Includes resume, contact info, and project links
 
 ---
