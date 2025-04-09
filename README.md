@@ -60,7 +60,8 @@ Here are a few more hands-on projects I’ve built. You can find the complete li
 - 🔸 [CarPoolEasy](https://github.com/poojapk0605/CarPoolEasy) – Carpool coordination app with route and request tracking
 - 🔸 [Miniproject_IOT](https://github.com/poojapk0605/Miniproject_IOT) – Raspberry Pi 4 + sensor data collection
 - 🔸 [Iot-WildGuard-System](https://github.com/poojapk0605/Iot-WildGuard-System) – IoT system to detect wild animal movements via edge sensors
-👉 **Explore more** at [github.com/poojapk0605](https://github.com/poojapk0605)
+
+- 👉 **Explore more** at [github.com/poojapk0605](https://github.com/poojapk0605)
 
 ---
 
