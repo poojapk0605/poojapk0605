@@ -54,12 +54,12 @@ Minimalist personal website showcasing projects, skills, and contact details.
 
 Here are a few more hands-on projects I’ve built. You can find the complete list on my GitHub:
 
-- 🔸 [Miniproject_IOT](https://github.com/poojapk0605/Miniproject_IOT) – ESP32 + Firebase + sensor data collection
-- 🔸 [CarPoolEasy](https://github.com/poojapk0605/CarPoolEasy) – Carpool coordination app with route and request tracking
-- 🔸 [MachineLearning-Timeseries](https://github.com/poojapk0605/MachineLearning-Timeseries) – Time series analysis using ARIMA & LSTM
-- 🔸 [Iot-WildGuard-System](https://github.com/poojapk0605/Iot-WildGuard-System) – IoT system to detect wild animal movements via edge sensors
-- 🔸 [CloudCraft](https://github.com/orgs/cloud-craft-project-fullstack/repositories) – Cloud-native fullstack app with EKS & Terraform
 
+- 🔸 [CloudCraft](https://github.com/orgs/cloud-craft-project-fullstack/repositories) – Cloud-native fullstack app with GCP VM's & Terraform
+- 🔸 [MachineLearning-Timeseries](https://github.com/poojapk0605/MachineLearning-Timeseries) – Time series analysis using ARIMA & LSTM
+- 🔸 [CarPoolEasy](https://github.com/poojapk0605/CarPoolEasy) – Carpool coordination app with route and request tracking
+- 🔸 [Miniproject_IOT](https://github.com/poojapk0605/Miniproject_IOT) – Raspberry Pi 4 + sensor data collection
+- 🔸 [Iot-WildGuard-System](https://github.com/poojapk0605/Iot-WildGuard-System) – IoT system to detect wild animal movements via edge sensors
 👉 **Explore more** at [github.com/poojapk0605](https://github.com/poojapk0605)
 
 ---
