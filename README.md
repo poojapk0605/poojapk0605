@@ -6,7 +6,7 @@
 # 👋 Hi, I'm Pooja Kannan
 
 🎓 Master’s student in Cyber-Physical Systems at Northeastern University (Graduating May 2025)  
-🚀 DevOps | MLOps | Cloud Engineer in Progress · Member of the MLOps Community
+🚀 DevOps & MLOps in progress | GCP · Terraform · Kubernetes · Airflow | MLOps Community Member
 
 I specialize in building scalable, reliable cloud-native infrastructure using tools like **Terraform**, **Docker**, **Kubernetes**, **Jenkins**, and **GitHub Actions**. I'm currently developing an end-to-end MLOps pipeline with **Vertex AI**, **Airflow**, and **GCS** on **GKE** for chatbot automation.
 
@@ -50,18 +50,18 @@ Minimalist personal website showcasing projects, skills, and contact details.
 - Includes resume, contact info, and project links
 
 ---
+
 ## 🗂️ Other Noteworthy Projects
 
 Here are a few more hands-on projects I’ve built. You can find the complete list on my GitHub:
 
+- 🔸 [CloudCraft](https://github.com/orgs/cloud-craft-project-fullstack/repositories) – Cloud-native fullstack app with GCP VM's & Terraform  
+- 🔸 [MachineLearning-Timeseries](https://github.com/poojapk0605/MachineLearning-Timeseries) – Time series analysis using ARIMA & LSTM  
+- 🔸 [CarPoolEasy](https://github.com/poojapk0605/CarPoolEasy) – Carpool coordination app with route and request tracking  
+- 🔸 [Miniproject_IOT](https://github.com/poojapk0605/Miniproject_IOT) – Raspberry Pi 4 + sensor data collection  
+- 🔸 [Iot-WildGuard-System](https://github.com/poojapk0605/Iot-WildGuard-System) – IoT system to detect wild animal movements via edge sensors  
 
-- 🔸 [CloudCraft](https://github.com/orgs/cloud-craft-project-fullstack/repositories) – Cloud-native fullstack app with GCP VM's & Terraform
-- 🔸 [MachineLearning-Timeseries](https://github.com/poojapk0605/MachineLearning-Timeseries) – Time series analysis using ARIMA & LSTM
-- 🔸 [CarPoolEasy](https://github.com/poojapk0605/CarPoolEasy) – Carpool coordination app with route and request tracking
-- 🔸 [Miniproject_IOT](https://github.com/poojapk0605/Miniproject_IOT) – Raspberry Pi 4 + sensor data collection
-- 🔸 [Iot-WildGuard-System](https://github.com/poojapk0605/Iot-WildGuard-System) – IoT system to detect wild animal movements via edge sensors
-
-- 👉 **Explore more** at [github.com/poojapk0605](https://github.com/poojapk0605)
+👉 **Explore more** at [github.com/poojapk0605](https://github.com/poojapk0605)
 
 ---
 
@@ -74,4 +74,10 @@ Here are a few more hands-on projects I’ve built. You can find the complete li
 
 ---
 
-⭐️ Thanks for visiting my profile! Feel free to check out my projects or reach out for collaboration.
+## 🔍 I'm actively seeking full-time opportunities in:  
+**DevOps · Site Reliability Engineering (SRE) · Cloud Engineering · MLOps**
+
+🌍 Active member of the [MLOps Community](https://mlops.community/)  
+🌐 Exploring decentralized platforms via Bluesky  
+
+🛠️ **Let’s automate everything — from infrastructure to ML workflows.**
