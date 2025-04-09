@@ -1,5 +1,5 @@
 <!-- GitHub Profile Views -->
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=poojapk0605&label=Profile%20Views&color=0e75b6&style=flat" alt="poojapk0605" />
 </p>
 
