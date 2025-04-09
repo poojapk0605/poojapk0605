@@ -81,3 +81,7 @@ Here are a few more hands-on projects I’ve built. You can find the complete li
 🌐 Exploring decentralized platforms via Bluesky  
 
 🛠️ **Let’s automate everything — from infrastructure to ML workflows.**
+
+---
+
+⭐️ Thanks for visiting my profile! Feel free to check out my projects or reach out for collaboration.
