@@ -74,7 +74,7 @@ Here are a few more hands-on projects I’ve built. You can find the complete li
 
 ---
 
-## 🔍 I'm actively seeking full-time/Internships opportunities in:  
+## 🔍 I'm actively seeking full-time opportunities in:  
 **DevOps · Site Reliability Engineering (SRE) · Cloud Engineering · MLOps**
 
 🌍 Active member of the [MLOps Community](https://mlops.community/)  
