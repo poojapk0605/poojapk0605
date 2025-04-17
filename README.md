@@ -45,9 +45,9 @@ MLOps pipeline deployed on GKE for chatbot automation at Northeastern University
 - Built with GitHub Actions for CI/CD automation
 
 ### 🔹 [Portfolio Website](https://poojapk0605.github.io/)  
-Minimalist personal website showcasing projects, skills, and contact details.
-- Built using HTML/CSS and hosted via GitHub Pages  
-- Includes resume, contact info, and project links
+A minimalist portfolio built in React and hosted on GitHub Pages.
+- Fully customizable via JSON config.
+- Includes resume, project showcase, and contact info.
 
 ---
 
