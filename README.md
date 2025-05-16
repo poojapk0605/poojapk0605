@@ -41,7 +41,7 @@ Cloud-native DevOps pipeline built on AWS with GitOps, IaC, and RAG-based chatbo
 ### 🔹 AskNeu (In Progress)  
 MLOps pipeline deployed on GKE for chatbot automation at Northeastern University.
 - Vertex AI model + Airflow ETL pipeline  
-- GCS for storage and GKE for deployment  
+- GCS for storage and GKE for deployment with Istio services and Grafana, Prometheus for monitoring.
 - Built with GitHub Actions for CI/CD automation
 
 ### 🔹 [Portfolio Website](https://poojapk0605.github.io/)  
