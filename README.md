@@ -38,7 +38,7 @@ Cloud-native DevOps pipeline built on AWS with GitOps, IaC, and RAG-based chatbo
 - EKS deployment with monitoring via Grafana & Prometheus  
 - LLM chatbot for CVE search using vector embeddings
 
-### 🔹 AskNeu (In Progress)  
+### 🔹 AskNeu ( University RAG Chatbot Platform)  
 MLOps pipeline deployed on GKE for chatbot automation at Northeastern University.
 - Vertex AI model + Airflow ETL pipeline  
 - GCS for storage and GKE for deployment with Istio services and Grafana, Prometheus for monitoring.
