@@ -5,10 +5,10 @@
 
 # 👋 Hi, I'm Pooja Kannan
 
-🎓 Master’s student in Cyber-Physical Systems at Northeastern University (Graduating May 2025)  
-🚀 DevOps & MLOps in progress | GCP · Terraform · Kubernetes · Airflow | MLOps Community Member
+🚀 DevOps | Cloud | MLOps | Kubernetes | Terraform | AWS | GCP  
+🎓 MS in Cyber-Physical Systems @ Northeastern | Passionate about scalable infra & automation
 
-I specialize in building scalable, reliable cloud-native infrastructure using tools like **Terraform**, **Docker**, **Kubernetes**, **Jenkins**, and **GitHub Actions**. I'm currently developing an end-to-end MLOps pipeline with **Vertex AI**, **Airflow**, and **GCS** on **GKE** for chatbot automation.
+I specialize in designing automated pipelines and reliable systems using Terraform, Docker, Kubernetes, Jenkins, and GitHub Actions. My current work involves end-to-end MLOps deployment using Vertex AI, Apache Airflow, and Google Cloud Storage on GKE for chatbot automation and vector search.
 
 ---
 
