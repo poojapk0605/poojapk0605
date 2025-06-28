@@ -37,24 +37,112 @@ I'm passionate about automation, clean architecture, and building resilient syst
 
 ## 📌 Featured Projects
 
-### 🔹 [CloudForge](https://github.com/orgs/cloud-forge-advance-cloud/repositories)  
-Cloud-native DevOps pipeline built on AWS with GitOps, IaC, and RAG-based chatbot integration.
-- CI/CD pipeline using Jenkins and Groovy scripts  
-- EKS deployment with monitoring via Grafana & Prometheus  
-- LLM chatbot for CVE search using vector embeddings
+# 🚗 CarPoolEasy – JavaFX Carpooling App with GCP Deployment
 
-### 🔹 [AskNeu]( https://github.com/poojapk0605/AskNEU) 
-MLOps pipeline deployed on GKE for chatbot automation at Northeastern University.
-- Vertex AI model + Airflow ETL pipeline  
-- GCS for storage and GKE for deployment with Istio services and Grafana, Prometheus for monitoring.
-- Built with GitHub Actions for CI/CD automation
-
-### 🔹 [Portfolio Website](https://poojapk0605.github.io/)  
-A minimalist portfolio built in React and hosted on GitHub Pages.
-- Fully customizable via JSON config.
-- Includes resume, project showcase, and contact info.
+CarPoolEasy is a full-stack desktop carpool management application built using JavaFX and MySQL. It allows users to register, login, post rides, and search for available carpool options. The application is designed with clean object-oriented principles and deployed on Google Cloud using Compute Engine and Cloud SQL.
 
 ---
+
+## 🧰 Tech Stack
+
+- **Language & UI**: Java, JavaFX, SceneBuilder
+- **Backend**: MySQL (Cloud SQL)
+- **Cloud**: Google Cloud Platform (Compute Engine, Cloud SQL)
+- **Email Notifications**: SMTP
+- **Deployment**: GCP startup scripts, secure VM provisioning
+
+---
+
+## 🛠️ Key Features
+
+- 🧾 User Registration & Authentication with hashed passwords  
+- 🚗 Create, View, and Search for Ride Posts  
+- ✉️ Email verification via SMTP integration  
+- 🖥 GUI developed using JavaFX & SceneBuilder  
+- ☁️ Deployed on GCP using VM startup script and MySQL Cloud SQL
+
+---
+
+## ⚙️ Deployment Overview
+
+- MySQL Cloud SQL provisioned for data storage  
+- GCP VM instance created with startup script to auto-run backend on boot  
+- Users interact through a desktop GUI interface built with SceneBuilder  
+- Emails triggered via SMTP server integration
+
+---
+
+## 📸 Screenshots  
+*(Optional: Add images of your GUI here)*
+
+---
+
+## 🔗 Links
+
+- 📂 GitHub Repo: [CarPoolEasy](https://github.com/poojapk0605/CarPoolEasy)  
+- 📫 [Connect on LinkedIn](https://www.linkedin.com/in/poojakannanpk/)
+
+---
+
+## 📄 License  
+MIT License
+
+
+
+# ☁️ CloudCraft – Full-Stack Node.js App with GCP & Terraform
+
+CloudCraft is a backend application built from scratch using Node.js and deployed on Google Cloud Platform. It provisions cloud infrastructure using Terraform and implements secure CI/CD pipelines with auto-scaling VM deployment, startup scripts, and load balancing.
+
+---
+
+## 🧰 Tech Stack
+
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL (Cloud SQL)
+- **Infrastructure:** Terraform, Packer, Google Cloud Platform
+- **CI/CD:** GitHub Actions
+- **Security & Auth:** bcrypt, JWT
+- **Testing:** Jest
+- **Messaging:** Pub/Sub for email verification
+
+---
+
+## 🛠️ Key Features
+
+- 🔐 Role-based user authentication with hashed passwords (bcrypt)  
+- 📧 GCP Pub/Sub integration for email verification  
+- 🧱 Terraform + Packer for full GCP VM provisioning  
+- 🚀 Startup scripts to automate application boot on VM launch  
+- 📦 CI/CD with GitHub Actions to rebuild and redeploy new VM templates on push  
+- ⚖️ Load balancing and autoscaling using instance templates  
+- 🛡️ Secured infrastructure with IAM and GCP firewall rules
+
+---
+
+## ⚙️ Deployment Overview
+
+- Terraform creates VPC, subnets, VM instance, Cloud SQL, Pub/Sub topics  
+- Packer builds VM images that run the backend on startup  
+- GitHub Actions triggers redeployment upon commit  
+- Startup script installs dependencies and launches the Node app on instance boot  
+- Cloud SQL manages persistent MySQL data storage
+
+---
+
+## 🖼️ Architecture Diagram  
+*(Optional: add a simple diagram here)*
+
+---
+
+## 🔗 Links
+
+- 📂 GitHub Repo: [Cloud_Craft](https://github.com/poojapk0605/Cloud_Craft)  
+- 🔗 [LinkedIn Project](https://www.linkedin.com/in/poojakannanpk/)
+
+---
+
+## 📄 License  
+MIT License
 
 ## 🗂️ Other Noteworthy Projects
 
