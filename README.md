@@ -14,19 +14,21 @@ I specialize in designing automated pipelines and reliable systems using Terrafo
 
 ## ⚙️ Tools & Tech I Work With
 
-![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform)
-![GCP](https://img.shields.io/badge/Cloud-GCP-orange?logo=googlecloud)
-![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?logo=amazonaws)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-green?logo=githubactions)
-![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue?logo=kubernetes)
-![Linux](https://img.shields.io/badge/System-Linux-black?logo=linux)
-![Python](https://img.shields.io/badge/Scripting-Python-yellow?logo=python)
-![Docker](https://img.shields.io/badge/Container-Docker-blue?logo=docker)
-![Jenkins](https://img.shields.io/badge/Automation-Jenkins-red?logo=jenkins)
-![Airflow](https://img.shields.io/badge/Workflow-Airflow-3aa0cf?logo=apacheairflow)
-![Grafana](https://img.shields.io/badge/Monitoring-Grafana-f46800?logo=grafana)
-![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-e6522c?logo=prometheus)
-![Vertex AI](https://img.shields.io/badge/MLOps-Vertex%20AI-brightgreen)
+## ⚙️ Tools & Tech I Work With
+
+[![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform)](https://www.terraform.io)  
+[![GCP](https://img.shields.io/badge/Cloud-GCP-orange?logo=googlecloud)](https://cloud.google.com)  
+[![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?logo=amazonaws)](https://aws.amazon.com)  
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-green?logo=githubactions)](https://github.com/features/actions)  
+[![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue?logo=kubernetes)](https://kubernetes.io)  
+[![Linux](https://img.shields.io/badge/System-Linux-black?logo=linux)](https://www.kernel.org)  
+[![Python](https://img.shields.io/badge/Scripting-Python-yellow?logo=python)](https://www.python.org)  
+[![Docker](https://img.shields.io/badge/Container-Docker-blue?logo=docker)](https://www.docker.com)  
+[![Jenkins](https://img.shields.io/badge/Automation-Jenkins-red?logo=jenkins)](https://www.jenkins.io)  
+[![Airflow](https://img.shields.io/badge/Workflow-Airflow-3aa0cf?logo=apacheairflow)](https://airflow.apache.org)  
+[![Grafana](https://img.shields.io/badge/Monitoring-Grafana-f46800?logo=grafana)](https://grafana.com)  
+[![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-e6522c?logo=prometheus)](https://prometheus.io)  
+[![Vertex AI](https://img.shields.io/badge/MLOps-Vertex%20AI-brightgreen)](https://cloud.google.com/vertex-ai)
 
 ---
 
