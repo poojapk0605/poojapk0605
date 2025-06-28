@@ -14,8 +14,6 @@ I specialize in designing automated pipelines and reliable systems using Terrafo
 
 ## ⚙️ Tools & Tech I Work With
 
-## ⚙️ Tools & Tech I Work With
-
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?logo=terraform)](https://www.terraform.io)  
 [![GCP](https://img.shields.io/badge/Cloud-GCP-orange?logo=googlecloud)](https://cloud.google.com)  
 [![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?logo=amazonaws)](https://aws.amazon.com)  
