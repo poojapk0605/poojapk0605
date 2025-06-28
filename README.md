@@ -5,10 +5,16 @@
 
 # 👋 Hi, I'm Pooja Kannan
 
-🚀 DevOps | Cloud | MLOps | Kubernetes | Terraform | AWS | GCP  
-🎓 MS in Cyber-Physical Systems @ Northeastern | Passionate about scalable infra & automation
+🎓 Master’s in Cyber-Physical Systems @ Northeastern University  
+🔧 DevOps & MLOps Engineer | Kubernetes • Terraform • GCP & AWS • CI/CD • Monitoring
 
-I specialize in designing automated pipelines and reliable systems using Terraform, Docker, Kubernetes, Jenkins, and GitHub Actions. My current work involves end-to-end MLOps deployment using Vertex AI, Apache Airflow, and Google Cloud Storage on GKE for chatbot automation and vector search.
+I’m a DevOps and MLOps engineer with hands-on experience deploying scalable, cloud-native systems using Kubernetes, Terraform, and CI/CD tools across AWS and GCP.
+
+I’ve built end-to-end pipelines, managed infrastructure-as-code, and integrated observability stacks using Prometheus and Grafana. My recent projects include:
+- 📦 Deploying an LLM-based chatbot using **GKE**, **Airflow**, and **Pinecone**
+- 🛡 Developing a CVE-tracking microservice in **Go** using **Kafka** and **PostgreSQL**
+
+I'm passionate about automation, clean architecture, and building resilient systems.
 
 ---
 
@@ -26,8 +32,6 @@ I specialize in designing automated pipelines and reliable systems using Terrafo
 [![Airflow](https://img.shields.io/badge/Workflow-Airflow-3aa0cf?logo=apacheairflow)](https://airflow.apache.org)
 [![Grafana](https://img.shields.io/badge/Monitoring-Grafana-f46800?logo=grafana)](https://grafana.com)
 [![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-e6522c?logo=prometheus)](https://prometheus.io)
-[![Vertex AI](https://img.shields.io/badge/MLOps-Vertex%20AI-brightgreen)](https://cloud.google.com/vertex-ai)
-
 
 ---
 
