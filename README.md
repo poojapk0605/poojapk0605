@@ -43,4 +43,20 @@ Security-focused CVE-tracking microservice using Flask, Kafka, PostgreSQL, and C
 
 ---
 
+## 🧪 Other Noteworthy Projects
+
+- 🌐 **[Personal Portfolio](https://github.com/poojapk0605/poojapk0605.github.io)**  
+  A personal portfolio website built with HTML, CSS, and JavaScript, hosted with GitHub Pages. Showcases projects, skills, and contact information in a clean layout.
+
+- 🌿 **[IoT WildGuard System](https://github.com/poojapk0605/IoT-WildGuard-System)**  
+  IoT-based forest monitoring system using sensors and NodeMCU. Sends real-time alerts via GSM and logs data to ThingSpeak. Built for wildlife protection use cases.
+
+- 📡 **[MiniProject IoT](https://github.com/poojapk0605/Miniproject_IOT)**  
+  A soil moisture and temperature monitoring solution using ESP8266 and DHT11 sensors. Integrates cloud storage and mobile alerting for smart agriculture.
+
+- 📈 **[Machine Learning – Time Series](https://github.com/poojapk0605/MachineLearning-Timeseries)**  
+  Contains exploratory notebooks on time series prediction using ARIMA, LSTM, and Prophet. Demonstrates model training, evaluation, and forecasting for temporal data.
+
+---
+
 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/poojakannanpk/)
