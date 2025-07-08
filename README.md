@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Pooja Kannan
 
-🎓 MS in Cyber-Physical Systems @ Northeastern | Passionate about cloud infra, MLOps & automation
+🎓 MS in Cyber-Physical Systems @ Northeastern |Software Engineering | Passionate about cloud infra, MLOps & automation
 
 I specialize in building scalable, reliable cloud-native infrastructure using tools like **Terraform**, **Docker**, **Kubernetes**, **Jenkins**, and **GitHub Actions**.  
 I'm currently developing end-to-end MLOps pipelines with **Vertex AI**, **Airflow**, and **GCS** on **GKE** for chatbot automation.
